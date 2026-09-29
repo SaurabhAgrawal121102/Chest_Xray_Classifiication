@@ -1,0 +1,14 @@
+# Dataset / images
+chest_xray/
+Output_two/
+*.jpeg
+*.jpg
+*.png
+
+# Model
+*.pth
+*.pt
+
+# Python environment
+pytorch_env/
+venv/
